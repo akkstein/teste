@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{139C73DE-4700-4C65-2B37-75AF8045624D}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "C0MultiTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "VivoxCore",
+			"Enabled": true
+		}
+	]
+}

@@ -1,0 +1,28 @@
+D:\UE4 projects\C0MultiTest_2\Plugins\VivoxCoreUE4Plugin\Intermediate\Build\Win64\UE4Editor\Development\VivoxCore\Definitions.VivoxCore.h
+D:/UE4 projects/C0MultiTest_2/Plugins/VivoxCoreUE4Plugin/Intermediate/Build/Win64/UE4Editor/Inc/VivoxCore/AudioDeviceImpl.gen.cpp
+E:\UE4Source\426\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\UE4Source\426\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\UE4 projects\C0MultiTest_2\Plugins\VivoxCoreUE4Plugin\Source\VivoxCore/Private/AudioDeviceImpl.h
+D:\UE4 projects\C0MultiTest_2\Plugins\VivoxCoreUE4Plugin\Source\VivoxCore\Public\IAudioDevices.h
+D:\UE4 projects\C0MultiTest_2\Plugins\VivoxCoreUE4Plugin\Source\VivoxCore\Public\IAudioDevice.h
+D:\UE4 projects\C0MultiTest_2\Plugins\VivoxCoreUE4Plugin\Source\VivoxCore\Public\VivoxCoreCommon.h
+D:\UE4 projects\C0MultiTest_2\Plugins\VivoxCoreUE4Plugin\Source\VivoxCore\Public\VivoxConfig.h
+D:\UE4 projects\C0MultiTest_2\Plugins\VivoxCoreUE4Plugin\Source\ThirdParty\VivoxCoreLibrary\Windows\include\Vxc.h
+D:\UE4 projects\C0MultiTest_2\Plugins\VivoxCoreUE4Plugin\Source\ThirdParty\VivoxCoreLibrary\Windows\include\VxcExports.h
+D:\UE4 projects\C0MultiTest_2\Plugins\VivoxCoreUE4Plugin\Source\ThirdParty\VivoxCoreLibrary\Windows\include\VxcTypes.h
+D:\UE4 projects\C0MultiTest_2\Plugins\VivoxCoreUE4Plugin\Source\VivoxCore\Public\AccountId.h
+D:\UE4 projects\C0MultiTest_2\Plugins\VivoxCoreUE4Plugin\Source\VivoxCore\Public\ChannelId.h
+D:\UE4 projects\C0MultiTest_2\Plugins\VivoxCoreUE4Plugin\Source\VivoxCore\Public\Channel3DProperties.h
+D:\UE4 projects\C0MultiTest_2\Plugins\VivoxCoreUE4Plugin\Source\VivoxCore\Public\Presence.h
+D:\UE4 projects\C0MultiTest_2\Plugins\VivoxCoreUE4Plugin\Source\VivoxCore\Public\ConnectionState.h
+D:/UE4 projects/C0MultiTest_2/Plugins/VivoxCoreUE4Plugin/Intermediate/Build/Win64/UE4Editor/Inc/VivoxCore/Channel3DProperties.gen.cpp
+D:/UE4 projects/C0MultiTest_2/Plugins/VivoxCoreUE4Plugin/Intermediate/Build/Win64/UE4Editor/Inc/VivoxCore/ChannelId.gen.cpp
+D:/UE4 projects/C0MultiTest_2/Plugins/VivoxCoreUE4Plugin/Intermediate/Build/Win64/UE4Editor/Inc/VivoxCore/ConnectionState.gen.cpp
+D:/UE4 projects/C0MultiTest_2/Plugins/VivoxCoreUE4Plugin/Intermediate/Build/Win64/UE4Editor/Inc/VivoxCore/ILoginSession.gen.cpp
+D:\UE4 projects\C0MultiTest_2\Plugins\VivoxCoreUE4Plugin\Source\VivoxCore/Public/ILoginSession.h
+D:\UE4 projects\C0MultiTest_2\Plugins\VivoxCoreUE4Plugin\Source\VivoxCore\Public\ITextToSpeech.h
+D:\UE4 projects\C0MultiTest_2\Plugins\VivoxCoreUE4Plugin\Source\VivoxCore\Public\ITTSMessage.h
+D:\UE4 projects\C0MultiTest_2\Plugins\VivoxCoreUE4Plugin\Source\VivoxCore\Public\ITTSVoice.h
+D:/UE4 projects/C0MultiTest_2/Plugins/VivoxCoreUE4Plugin/Intermediate/Build/Win64/UE4Editor/Inc/VivoxCore/ITTSMessage.gen.cpp
+D:/UE4 projects/C0MultiTest_2/Plugins/VivoxCoreUE4Plugin/Intermediate/Build/Win64/UE4Editor/Inc/VivoxCore/Presence.gen.cpp
+D:/UE4 projects/C0MultiTest_2/Plugins/VivoxCoreUE4Plugin/Intermediate/Build/Win64/UE4Editor/Inc/VivoxCore/VivoxCore.init.gen.cpp

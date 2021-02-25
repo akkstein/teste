@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VivoxCore.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\MakeGames\Source\426\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UE4 projects\C0MultiTest\Plugins\VivoxCoreUE4Plugin\Intermediate\Build\Win64\UE4Editor\Development\VivoxCore\Module.VivoxCore.cpp.obj"
+"D:\UE4 projects\C0MultiTest\Plugins\VivoxCoreUE4Plugin\Intermediate\Build\Win64\UE4Editor\Development\VivoxCore\Module.VivoxCore.gen.cpp.obj"
+"D:\MakeGames\Source\426\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\UE4 projects\C0MultiTest\Plugins\VivoxCoreUE4Plugin\Intermediate\Build\Win64\UE4Editor\Development\VivoxCore\UE4Editor-VivoxCore.lib"
+/INCLUDE:IMPLEMENT_MODULE_VivoxCore
