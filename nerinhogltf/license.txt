@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ner0
+* source:	https://sketchfab.com/3d-models/ner0-d580e4eeb1fc4caab4952f71dc429a04
+* author:	akkstein (https://sketchfab.com/akkstein)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ner0" (https://sketchfab.com/3d-models/ner0-d580e4eeb1fc4caab4952f71dc429a04) by akkstein (https://sketchfab.com/akkstein) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
